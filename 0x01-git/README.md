@@ -1,1 +1,1 @@
-This is the README.md file at the root of the repository
+This is the README.md file inside the 0x01-git directory
